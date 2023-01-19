@@ -1,0 +1,19 @@
+{
+  "name": "new-website-1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMontgomery5/Front-End-Portfolio.git"
+  },
+  "author": "David Montgomery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidMontgomery5/Front-End-Portfolio/issues"
+  },
+  "homepage": "https://github.com/DavidMontgomery5/Front-End-Portfolio#readme"
+}
